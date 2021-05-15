@@ -21,6 +21,7 @@ h3{
 }
 p{
   font-size: 1em;
+  margin: 10px;
 }
 header{
   display: flex;
@@ -48,9 +49,10 @@ margin-left: auto;
 #icon *{
 display: flex;
 flex-direction: row;
+margin: 1px;
 margin-top: auto;
 margin-bottom: auto;
-height: 70%;
+height: 67%;
 }
 
 #columns {
@@ -81,8 +83,9 @@ footer p {
 .bio {
   display: flex;
   gap: 10px;
+  margin:10px;
 }
 
 .bio button {
-  margin-left: auto;
+  margin-left: 50%;
 }
